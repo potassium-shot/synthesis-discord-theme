@@ -19,7 +19,7 @@
     --synth-overlay-color:      255 165 0   ;
     --synth-crt-light:          255 255 255 ;
     --synth-crt-dark:           0   0   0   ;
-    --synth-crt-flicker:        none        ;   /* This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
+    --synth-crt-flicker:        flicker        ;   /* This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
 
     --synth-color-background:   20  6   36  ;
     --synth-color-foreground:   255 165 0   ;
