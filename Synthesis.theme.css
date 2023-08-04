@@ -16,7 +16,8 @@
 :root {
     --synth-background-image:   url(https://raw.githubusercontent.com/potassium-shot/synthesis-discord-theme/main/backgrounds/lofi.avif);
     --synth-backdrop-opacity:   0.3         ;
-    --synth-overlay-color:       80 242 121 ; /* #FFA500 - #50F279 */
+                                              /* ------- - +++++++ */
+    --synth-overlay-color:      203  51  51 ; /* #FFA500 - #CB3333 */
     --synth-crt-light:          255 255 255 ; /* #FFFFFF - #FFFFFF */
     --synth-crt-dark:             0   0   0 ; /* #000000 - #000000 */
     --synth-crt-flicker:        flicker     ; /* This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
